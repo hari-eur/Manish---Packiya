@@ -1,0 +1,53 @@
+The options are :
+       1. Triangle (Pyramid)
+       2. Right Angled Triangle
+       3. Inverted Triangle
+       4. Exit
+Enter your choice : 1
+
+Enter Number of Rows : 7
+
+       *
+      ***
+     *****
+    *******
+   *********
+  ***********
+ *************
+
+The options are :
+       1. Triangle (Pyramid)
+       2. Right Angled Triangle
+       3. Inverted Triangle
+       4. Exit
+Enter your choice : 2
+
+Enter Number of Rows : 5
+
+*
+**
+***
+****
+*****
+
+The options are :
+       1. Triangle (Pyramid)
+       2. Right Angled Triangle
+       3. Inverted Triangle
+       4. Exit
+Enter your choice : 3
+
+Enter Number of Rows : 5
+
+*****
+****
+***
+**
+*
+
+The options are :
+       1. Triangle (Pyramid)
+       2. Right Angled Triangle
+       3. Inverted Triangle
+       4. Exit
+Enter your choice : 4
