@@ -1,0 +1,76 @@
+
+Select a Bank:
+1. Tamilnad Mercantile Bank
+2. State Bank of India
+3. Punjab National Bank
+4. Axis Bank
+5. HDFC Bank
+6. Exit
+Enter your choice: 1
+
+Pick a choice:
+1. Savings Account
+2. Current Account
+3. Demat Account
+4. Exit
+Enter your Choice : 1
+
+ Savings Interest = 4
+Select a Bank:
+1. Tamilnad Mercantile Bank
+2. State Bank of India
+3. Punjab National Bank
+4. Axis Bank
+5. HDFC Bank
+6. Exit
+Enter your choice: 1
+
+Pick a choice:
+1. Savings Account
+2. Current Account
+3. Demat Account
+4. Exit
+Enter your Choice : 2
+
+ Current Interest = 4
+Select a Bank:
+1. Tamilnad Mercantile Bank
+2. State Bank of India
+3. Punjab National Bank
+4. Axis Bank
+5. HDFC Bank
+6. Exit
+Enter your choice: 1
+
+Pick a choice:
+1. Savings Account
+2. Current Account
+3. Demat Account
+4. Exit
+Enter your Choice : 3
+
+ Demat's Interest = 4
+Select a Bank:
+1. Tamilnad Mercantile Bank
+2. State Bank of India
+3. Punjab National Bank
+4. Axis Bank
+5. HDFC Bank
+6. Exit
+Enter your choice: 2
+
+Pick a choice:
+1. Savings Account
+2. Current Account
+3. Demat Account
+4. Exit
+Enter your Choice : 4
+
+Select a Bank:
+1. Tamilnad Mercantile Bank
+2. State Bank of India
+3. Punjab National Bank
+4. Axis Bank
+5. HDFC Bank
+6. Exit
+Enter your choice: 6
