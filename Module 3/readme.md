@@ -1,7 +1,7 @@
-Write complete function with macro that takes argument dynmically.
-Sample Input:
-      print("Welcome to %s",data);
-      print("Hello to %s: Welcome to %s,data_1,data_2);
+1. Write complete function with macro that takes argument dynmically.
+<br>Sample Input:
+<br>    print("Welcome to %s",data);
+<br>    print("Hello to %s: Welcome to %s,data_1,data_2);
 Implent the print API in MACRO.
 
 2. Write the program for following
