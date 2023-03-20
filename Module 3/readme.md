@@ -28,12 +28,12 @@ Output:
 
 3. Read the input string and pass to a FUNCTION which returns string which is sorted in following format
  String Input:
-   123434acibdf295869asdsd37695dfgasd
+ 123434acibdf295869asdsd37695dfgasd
 
  String Output:
-   123344abcdfi256899addss35679addfgs
+ 123344abcdfi256899addss35679addfgs
 
-Explanation:
-  sort numbers and alphabets in subsets
-  123434 - acibdf - 295869 - asdsd - 37695 - dfgasd
-  123344 - abcdfi - 256899 - addss - 35679 - addfgs
+ Explanation:
+ sort numbers and alphabets in subsets
+ 123434 - acibdf - 295869 - asdsd - 37695 - dfgasd
+ 123344 - abcdfi - 256899 - addss - 35679 - addfgs
