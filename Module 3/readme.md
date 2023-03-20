@@ -27,11 +27,10 @@ Output:
 7 5 9
 
 3. Read the input string and pass to a FUNCTION which returns string which is sorted in following format
- String Input:
- 123434acibdf295869asdsd37695dfgasd
-
- String Output:
- 123344abcdfi256899addss35679addfgs
+   String Input:
+   123434acibdf295869asdsd37695dfgasd
+   String Output:
+   123344abcdfi256899addss35679addfgs
 
  Explanation:
  sort numbers and alphabets in subsets
