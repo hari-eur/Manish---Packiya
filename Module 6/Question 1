@@ -1,0 +1,17 @@
+/home/ubuntu/.hushlogin file.
+ubuntu@M-A-S-T-E-R:~$
+ubuntu@M-A-S-T-E-R:~$
+ubuntu@M-A-S-T-E-R:~$
+ubuntu@M-A-S-T-E-R:~$
+ubuntu@M-A-S-T-E-R:~$
+ubuntu@M-A-S-T-E-R:~$ mkdir sample
+ubuntu@M-A-S-T-E-R:~$ ls
+sample
+ubuntu@M-A-S-T-E-R:~$ cd sample/
+ubuntu@M-A-S-T-E-R:~/sample$ ls
+ubuntu@M-A-S-T-E-R:~/sample$ vi test.txt
+ubuntu@M-A-S-T-E-R:~/sample$ cat test.txt
+ubuntu@M-A-S-T-E-R:~/sample$
+ubuntu@M-A-S-T-E-R:~/sample$ ls
+test.txt
+ubuntu@M-A-S-T-E-R:~/sample$
